@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "BNRItem.h"
 
 int main(int argc, const char * argv[])
 {
@@ -29,9 +30,13 @@ int main(int argc, const char * argv[])
         
         // For every item in the items array ...
         for (NSString *item in items) {
-            // Log the description of item
+            // print a description of the item
             NSLog(@"%@", item);
         }
+        
+        BNRItem *item = [[BNRItem alloc] init];
+        NSLog(@"%@ %@ %@ %d", [item itemName], [item dateCreated],
+              [item serialNumber], [item valueInDollars]);
         
         // Destroy the mutable array object
         items = nil;
