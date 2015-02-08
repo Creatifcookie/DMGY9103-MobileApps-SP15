@@ -9,7 +9,6 @@
 #import <Foundation/Foundation.h>
 
 @interface BNRItem : NSObject
-
 {
     NSString *_itemName;
     NSString *_serialNumber;
@@ -23,10 +22,9 @@
 - (void)setSerialNumber:(NSString *)str;
 - (NSString *)serialNumber;
 
-- (void)setVaueInDollars:(int)v;
+- (void)setValueInDollars:(int)str;
 - (int)valueInDollars;
 
 - (NSDate *)dateCreated;
-
 
 @end

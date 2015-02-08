@@ -13,7 +13,6 @@
 - (void)setItemName:(NSString *)str
 {
     _itemName = str;
-
 }
 - (NSString *)itemName
 {
@@ -24,7 +23,6 @@
 {
     _serialNumber = str;
 }
-
 - (NSString *)serialNumber
 {
     return _serialNumber;
@@ -34,7 +32,6 @@
 {
     _valueInDollars = v;
 }
-
 - (int)valueInDollars
 {
     return _valueInDollars;

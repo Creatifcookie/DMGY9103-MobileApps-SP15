@@ -10,29 +10,29 @@
 	<string>RandomItems</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>57C8E1D2-1350-4483-80F0-C02A7D3F8616</key>
+		<key>17B896449DBD7FEF966C16F8C168EDB445C4FA07</key>
 		<string>https://github.com/Creatifcookie/DMGY9103-MobileApps-SP15.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>RandomItems/RandomItems.xcodeproj/project.xcworkspace</string>
+	<string>RandomItems/RandomItems.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>57C8E1D2-1350-4483-80F0-C02A7D3F8616</key>
+		<key>17B896449DBD7FEF966C16F8C168EDB445C4FA07</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/Creatifcookie/DMGY9103-MobileApps-SP15.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>57C8E1D2-1350-4483-80F0-C02A7D3F8616</string>
+	<string>17B896449DBD7FEF966C16F8C168EDB445C4FA07</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>57C8E1D2-1350-4483-80F0-C02A7D3F8616</string>
+			<string>17B896449DBD7FEF966C16F8C168EDB445C4FA07</string>
 			<key>IDESourceControlWCCName</key>
 			<string>DMGY9103-MobileApps-SP15</string>
 		</dict>
