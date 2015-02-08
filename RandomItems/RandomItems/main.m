@@ -48,11 +48,13 @@ int main(int argc, const char * argv[])
         
         //NSLog(@"%@ %@ %@ %d", [item itemName], [item dateCreated],
               //[item serialNumber], [item valueInDollars]);
-        NSLog(@"%@ %@ %@ %d", item.itemName, item.dateCreated,
-              item.serialNumber, item.valueInDollars);
+        //NSLog(@"%@ %@ %@ %d", item.itemName, item.dateCreated,
+              //item.serialNumber, item.valueInDollars);
+        
         //the %@ token is replaced with the result ofsending the description
         //message ti the corresponding argument
-        //NSLog(@"%@", item);
+        NSLog(@"%@", item);
+        
         // Destroy the mutable array object
         items = nil;
         
